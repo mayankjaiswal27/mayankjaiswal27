@@ -1,5 +1,6 @@
-## Warm Greetings! 👋
 ![](https://komarev.com/ghpvc/?username=mayankjaiswal27)
+## Warm Greetings! 👋
+
 I'm an enthusiastic second-year Computer Science Engineering (CSE) student deeply immersed in the captivating world of web development and AI. Proficient in languages such as C, Java, Python, and C++, I've extended my expertise to encompass PHP, Laravel, the MERN stack, and Android development. Moreover, I possess hands-on experience in both MySQL and MongoDB for efficient database management.
 
 My journey into the realm of coding was sparked by a curiosity for programming languages, evolving into a steadfast commitment to crafting impactful web solutions and exploring the fascinating field of artificial intelligence. I'm driven by a passion for innovation and a relentless pursuit of knowledge.
