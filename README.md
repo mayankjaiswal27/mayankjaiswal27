@@ -28,5 +28,4 @@ Beyond web development and AI, I'm deeply passionate about competitive coding. T
 With my diverse skill set and unwavering enthusiasm, I'm poised to tackle new challenges and make meaningful contributions to the ever-evolving landscape of technology. Let's embark on this exciting journey together, driving innovation and pushing the boundaries of what's possible!
 
 ![Mayankjaiswal27's Stats](https://github-readme-stats.vercel.app/api?username=Mayankjaiswal27&theme=highcontrast&show_icons=true&hide_border=true&count_private=true)
- ![Mayankjaiswal27's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mayankjaiswal27&theme=highcontrast&hide_border=true)
  ![Mayankjaiswal27's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayankjaiswal27&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)
