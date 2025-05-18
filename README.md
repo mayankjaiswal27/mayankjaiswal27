@@ -14,5 +14,15 @@ My coding journey began with a curiosity for programming and has grown into a de
 
 I’m excited to tackle challenges and contribute to the evolving tech landscape. Let’s innovate together!
 
-![Mayankjaiswal27's Stats](https://github-readme-stats.vercel.app/api?username=Mayankjaiswal27&theme=highcontrast&show_icons=true&hide_border=true&count_private=true)  
-![Mayankjaiswal27's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayankjaiswal27&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)
+<div style="display: flex; justify-content: space-between; gap: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayankjaiswal27&theme=highcontrast&show_icons=true&hide_border=true&layout=compact" alt="Mayankjaiswal27's Top Languages" width="48%" height="40%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mayankjaiswal27&theme=highcontrast&show_icons=true&hide_border=true&count_private=true" alt="Mayankjaiswal27's Stats" width="48%" height="50%" />
+
+</div>
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
