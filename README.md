@@ -15,7 +15,7 @@ My coding journey began with a curiosity for programming and has grown into a de
 I’m excited to tackle challenges and contribute to the evolving tech landscape. Let’s innovate together!
 
 ## Certifications 🏅
-[![AWS Certified Cloud Practitioner](https://images.credly.com/size/220x220/images/68416445-01db-45ef-bb4f-0b3f3c7f7ba0/image.png)](https://www.credly.com/badges/9c50c2c5-91f0-47ac-8e45-e9b0edb6a356/public_url)
+[![AWS Certified Cloud Practitioner](https://images.credly.com/size/130x130/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/9c50c2c5-91f0-47ac-8e45-e9b0edb6a356/public_url)
 
 <div style="display: flex; justify-content: space-between; gap: 10px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayankjaiswal27&theme=highcontrast&show_icons=true&hide_border=true&layout=compact" alt="Mayankjaiswal27's Top Languages" width="48%" height="40%" />
