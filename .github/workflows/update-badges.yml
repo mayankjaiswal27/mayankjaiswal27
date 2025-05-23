@@ -1,0 +1,19 @@
+name: Update badges
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs at 0am UTC every day
+  workflow_dispatch: # Allows manual trigger
+jobs:
+  update-readme:
+    name: Update Readme with badges
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Badges - Readme
+        uses: pemtajo/badge-readme@main
+        with:
+          CREDLY_USER: mayankjaiswal # Replace with your Credly username
+          CREDLY_SORT: POPULAR # Show most recent badges
+          BADGE_SIZE: 110 # Matches README's compact style
+          NUMBER_LAST_BADGES: 5 # Show up to 5 badges
