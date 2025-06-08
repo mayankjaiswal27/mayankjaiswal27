@@ -1,6 +1,6 @@
 ## Hello! 👋
 
-I'm a passionate final-year Computer Science Engineering undergraduate specializing in web development. I’m proficient in C, Java, Python, C++, PHP, Laravel, AWS (**AWS Certified Cloud Practitioner**), Azure (**Microsoft Certified: Azure Fundamentals (AZ-900)**), Socket.io, the MERN stack, and Android development, with hands-on experience in MySQL and MongoDB for efficient database management.
+I'm a passionate final-year Computer Science Engineering undergraduate specializing in web development. I’m proficient in C, Java, Python, C++, PHP, Laravel, AWS (**AWS Certified Cloud Practitioner**), Azure (**Microsoft Certified: Azure Fundamentals (AZ-900)**), AI (**Microsoft Certified: AI Fundamentals (AI-900)**), Socket.io, the MERN stack, and Android development, with hands-on experience in MySQL and MongoDB for efficient database management.
 
 My coding journey began with a curiosity for programming and has grown into a dedication to building impactful web solutions and exploring AI, including machine learning, natural language processing, and computer vision. I’m driven by innovation, competitive coding, and continuous learning, currently deepening my expertise in Full Stack development and emerging AI technologies.
 
@@ -9,7 +9,7 @@ My coding journey began with a curiosity for programming and has grown into a de
 - **Web Frameworks**: PHP, Laravel, MERN stack  
 - **Databases**: MySQL, MongoDB
 - **Cloud**: AWS (**AWS Certified Cloud Practitioner**), Azure (**Microsoft Certified: Azure Fundamentals (AZ-900)**)  
-- **AI**: Machine learning, NLP, computer vision  
+- **AI**: Machine learning (**Microsoft Certified: AI Fundamentals (AI-900)**), NLP, computer vision  
 - **Interests**: Competitive coding, Full Stack development, AI innovation  
 
 I’m excited to tackle challenges and contribute to the evolving tech landscape. Let’s innovate together!
