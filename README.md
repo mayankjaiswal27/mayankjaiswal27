@@ -19,7 +19,10 @@ I’m excited to tackle challenges and contribute to the evolving tech landscape
   <img src="https://images.credly.com/size/130x130/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="130" height="130" alt="AWS Certified Cloud Practitioner" />
 </a>
 <a href="https://learn.microsoft.com/api/credentials/share/en-us/Mayank-0459/3C3A1369D2F93437?sharingId=ECFE2CB586E0CD7B" target="_blank">
-  <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main" width="130" height="130" alt="Microsoft Certified: Azure Fundamentals" />
+  <img src="https://images.credly.com/size/680x680/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width="130" height="130" alt="Microsoft Certified: Azure Fundamentals" />
+</a>
+<a href="https://learn.microsoft.com/api/credentials/share/en-us/Mayank-0459/9690AB3A109111DD?sharingId=ECFE2CB586E0CD7B" target="_blank">
+  <img src="https://images.credly.com/size/680x680/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png" width="130" height="130" alt="Microsoft Certified: Azure Fundamentals" />
 </a>
 
 <div style="display: flex; justify-content: space-between; gap: 10px;">
