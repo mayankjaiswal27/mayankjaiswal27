@@ -27,7 +27,7 @@ I’m excited to tackle challenges and contribute to the evolving tech landscape
 
 <div style="display: flex; justify-content: space-between; gap: 10px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayankjaiswal27&theme=highcontrast&show_icons=true&hide_border=true&layout=compact" alt="Mayankjaiswal27's Top Languages" width="48%" height="40%" />
-    <img src="https://github-readme-stats.vercel.app/api?username=Mayankjaiswal27&theme=highcontrast&show_icons=true&hide_border=true&count_private=true" alt="Mayankjaiswal27's Stats" width="48%" height="50%" />
+<!--     <img src="https://github-readme-stats.vercel.app/api?username=Mayankjaiswal27&theme=highcontrast&show_icons=true&hide_border=true&count_private=true" alt="Mayankjaiswal27's Stats" width="48%" height="50%" /> -->
 </div>
 
 <picture>
