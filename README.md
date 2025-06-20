@@ -20,6 +20,9 @@ I'm a passionate final-year Computer Science Engineering undergraduate specializ
 <a href="https://learn.microsoft.com/api/credentials/share/en-us/Mayank-0459/9690AB3A109111DD?sharingId=ECFE2CB586E0CD7B" target="_blank">
   <img src="https://images.credly.com/size/680x680/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png" width="130" height="130" alt="Microsoft Certified: Azure Fundamentals" />
 </a>
+<a href="https://learn.microsoft.com/api/credentials/share/en-us/Mayank-0459/AF3AA3D115BDB654?sharingId=ECFE2CB586E0CD7B" target="_blank">
+  <img src="https://images.credly.com/size/680x680/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png" width="130" height="130" alt="Microsoft Certified: Azure Fundamentals" />
+</a>
 
 <div style="display: flex; justify-content: space-between; gap: 10px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayankjaiswal27&theme=highcontrast&show_icons=true&hide_border=true&layout=compact" alt="Mayankjaiswal27's Top Languages" width="48%" height="40%" />
